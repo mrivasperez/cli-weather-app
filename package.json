@@ -1,0 +1,14 @@
+{
+  "name": "how-is-the-weather",
+  "version": "1.0.0",
+  "description": "A weather application.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postman-request": "^2.88.1-postman.23"
+  }
+}
